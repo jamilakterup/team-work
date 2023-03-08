@@ -1,0 +1,38 @@
+/* Milestone-01
+module-01:----
+
+Display property
+** display: block 
+** display: inline 
+** display: inline-block
+** display: hidden
+** display: none
+** display: flex
+Flex:---
+Flex-direction: (row)  /  (column) / (row-reverse) / (column-reverse)
+Justify-content: (center) / (space-between) / (space-around) / (selfe)
+Align-items: (center) / (space-between) / (space-around) / (selfe)
+Flex-wrap: (wrap) / (no-wrap)
+Flex-grow: 1 / 2 / 3
+Anchor tag
+Span tag 
+
+Style:---
+
+Margin
+Padding
+Border-radius 
+Text-decoration
+Font-size
+font-family: "Audiowide", sans-serif;
+Font-style
+Text-align
+Text transform 
+Text shadow
+text-indent
+letter-spacing
+line-height
+word-spacing
+white-space
+Pseudo class
+Pseudo element */
