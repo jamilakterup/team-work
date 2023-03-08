@@ -9,9 +9,9 @@ Display property
 ** display: none
 ** display: flex
 Flex:---
-Flex-direction: (row)  /  (column) / (row-reverse) / (column-reverse)
-Justify-content: (center) / (space-between) / (space-around) / (selfe)
-Align-items: (center) / (space-between) / (space-around) / (selfe)
+Flex-direction: (row)  /  (column) / (row-reverse) / (column-reverse) 
+Justify-content: (center) / (space-between) / (space-around) / (end) / (space-evenly)
+Align-items: (center) / (flex-start) / (flex-end) / (end)
 Flex-wrap: (wrap) / (no-wrap)
 Flex-grow: 1 / 2 / 3
 Anchor tag
