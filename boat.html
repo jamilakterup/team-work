@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Position</title>
+    <style>
+        .compo div img {
+            width: 200px;
+        }
+
+        .compo div {
+            /* border: 2px solid; */
+            width: 200px;
+            /* position: relative; */
+        }
+
+        #boy {
+            /* border: 2px solid; */
+            position: relative;
+            width: 120px;
+            top: 70px;
+            left: 30px;
+            z-index: 2;
+        }
+
+        #boat {
+            position: relative;
+            z-index: 1;
+        }
+
+        #water {
+            position: relative;
+            bottom: 130px;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>Lorem ipsum dolor sit amet.</h2>
+    <h2>Hic numquam fuga rem vel.</h2>
+    <h2>Doloremque quasi corporis explicabo. Perspiciatis.</h2>
+    <h2>Aliquid voluptate dolor ratione? Cumque.</h2>
+    <h2>Quos minima eaque molestiae in.</h2>
+
+    <div class="compo">
+        <div><img id="boy" src="images/boy.webp" alt=""></div>
+        <div><img id="boat" src="images/boat.webp" alt=""></div>
+        <div><img id="water" src="images/lake.webp" alt=""></div>
+    </div>
+</body>
+
+</html>
